@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Desktop\pr_uniti\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\USUARIO\Desktop\pr_uniti\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\USUARIO\Desktop\pr_uniti\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\USUARIO\Desktop\pr_uniti\Herencia\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\pr_uniti\Herencia\Herencia\obj\Debug\Herencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\pr_uniti\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\pr_uniti\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\USUARIO\Desktop\pr_uniti\Herencia\Herencia\obj\Debug\Herencia.pdb
